@@ -1,0 +1,27 @@
+
+skin.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button-down
+  rotate: false
+  xy: 2, 2
+  size: 300, 90
+  orig: 300, 90
+  offset: 0, 0
+  index: -1
+button-over
+  rotate: false
+  xy: 304, 2
+  size: 300, 90
+  orig: 300, 90
+  offset: 0, 0
+  index: -1
+button-up
+  rotate: false
+  xy: 606, 2
+  size: 300, 90
+  orig: 300, 90
+  offset: 0, 0
+  index: -1
